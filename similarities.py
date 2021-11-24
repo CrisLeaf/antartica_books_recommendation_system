@@ -34,4 +34,4 @@ def get_similarities(df):
 	discount_matrix = discount_matrix.astype("uint8")
 	discount_matrix = csr_matrix(discount_matrix)
 
-	return 2*author_sim + 2*category_sim + editorial_sim + 4*review_sim + discount_matrix
+	return 2*author_sim + 5*category_sim + editorial_sim + 5*review_sim + discount_matrix

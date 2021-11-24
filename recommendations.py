@@ -28,7 +28,7 @@ class Recommendations():
 	    return self.df["link"].iloc[link_index]
 
 	def get_recommendations(self, link):
-	    print(f"Input link:\n {link}")
+#        print(f"Input link:\n {link}")
 	    recos = self.recommend(link)
 #	    random_reco = self.random_recommendation()
 	    print(f"Output links:")
