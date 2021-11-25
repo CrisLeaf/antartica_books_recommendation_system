@@ -19,6 +19,12 @@ The following libraries are required:
 - [SciPy](https://scipy.github.io/devdocs/index.html)
 - [stop_words](https://pypi.org/project/stop-words/)
 
+Run 
+```
+pip install -r requirements.txt
+```
+to install the above.
+
 ## Dataset
 
 The data was scraped from the [Antartica](https://www.antartica.cl/) using 
