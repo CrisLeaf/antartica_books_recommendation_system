@@ -53,6 +53,17 @@ Example 1:
 
 <img src="images/harry_potter.png"/> 
 
+Example 2:
+
+<img src="images/stephen_king.png"/> 
+
+Example 3:
+
+<img src="images/arithmetic.png"/> 
+
+
+
+
 
 
 ## Support
